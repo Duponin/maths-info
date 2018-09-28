@@ -31,3 +31,15 @@ La série de terme général 1/k² semble converger vers 0.
 
 1968329/1270080 soit 1,5497</br>
 La série ne semble pas converger.
+
+### b) Déterminer la limite de la série
+
+(pi²)/6
+
+### c) a = 3 & a = 4
+
+Lorsque a = 3 , la valeur approchée est ~1,20
+
+Lorsque a = 4 </br>—> (72×pi⁴-6965)/6480
+
+### d) Essayer d'autres valeurs
